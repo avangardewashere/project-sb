@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  height: 125px;
+  width: 100vw;
+  justify-content: space-around;
+  align-items: center;
+  background: white;
+  color: black;
+}
+
+.main {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline:25px;
+  .actions {
+    display: flex;
+    gap: 1rem;
+  }
+}
