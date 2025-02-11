@@ -1,6 +1,7 @@
 import React from "react";
 import style from "./index.module.scss";
 import Image from "next/image";
+import Navlinks from "../Navlinks";
 const Header = () => {
   return (
     <div className={style.header}>
@@ -13,7 +14,7 @@ const Header = () => {
         </div>
       </div>
       {/* nav links */}
-      <div></div>
+      <Navlinks />
     </div>
   );
 };
