@@ -1,11 +1,11 @@
 import React from 'react'
 
-const index = () => {
+const Review = () => {
   return (
     <div>
-      
+      <span>Review</span>
     </div>
   )
 }
 
-export default index
+export default Review
