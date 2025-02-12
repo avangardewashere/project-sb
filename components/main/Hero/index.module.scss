@@ -1,7 +1,11 @@
-.container{
- background:white;   
- color:#222;
- width:100%;
- text-align: center;
- padding-block:10px;
+.container {
+  background: white;
+  color: #222;
+  width: 100%;
+  text-align: center;
+  padding-block: 10px;
+  .button {
+    background-color: rgb(205, 165, 80);
+    color: white;
+  }
 }

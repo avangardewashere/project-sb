@@ -12,6 +12,10 @@ const Hero = () => {
           ever find!
         </div>
       </div>
+
+      <div className={style.button}>
+        Shop Now
+      </div>
     </div>
   );
 };
