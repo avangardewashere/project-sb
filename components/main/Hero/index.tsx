@@ -2,7 +2,7 @@ import React from "react";
 import style from "./index.module.scss";
 const Hero = () => {
   return (
-    <div>
+    <div className={style.container}>
       <div className={style.headline}>
         <div className={style.title}>OFFICIAL DISTRIBUTOR OF SALVEO BARLEY</div>
         <div className={style.description}>
