@@ -5,7 +5,10 @@ const Disclaimer = () => {
     <div className={style.container}>
       <div className={style.headline}>Disclaimer</div>
       <p className={style.detailes}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, recusandae! Neque, dicta eos recusandae autem beatae sed. Accusamus, id qui?
+      Salveo Barley Grass is not a medicine. It is a natural and a whole food supplement that provides vitamins, minerals, amino acids, enzymes and other essential nutrients to the body. Any information here is not intended to diagnose any illness and is for educational purposes only. Expected results may vary depending on age, diet, body type, condition, habits & overall lifestyle of the user.
+      </p>
+      <p className={style.detailes}>
+      Testimonials here are genuine and voluntarily given by the users. These are personal experiences as a result of their use of the product and should not be taken as a medical advice nor be treated as a scientific evidence. If symptoms persist, consult your physician.
       </p>
     </div>
   );
