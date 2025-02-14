@@ -1,8 +1,8 @@
 import React from 'react'
-
+import style from"./index.module.scss"
 const TestimonialCard = () => {
   return (
-    <div>
+    <div className={style.container}>
       
     </div>
   )
