@@ -9,6 +9,7 @@ const TestimonialCard = () => {
       Bukol sa dibdib | Paulina Policarpio
       "Pagkaraan ng tatlong buwan na tuloy-tuloy kong pag-inom ng Salveo ay nawala ung mga bukol nanakakapa ko sa aking breast. Nakakatuwa, ang galing ni Salveo kaya tinuloy-tuloy ko ang pag-inom hanggang ngayon. Malakas ang katawan ko, di ako dinadapuan ng ubo at sipon."
       </p>
+      
     </div>
   );
 };
