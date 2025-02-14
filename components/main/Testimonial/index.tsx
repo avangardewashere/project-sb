@@ -5,6 +5,8 @@ const Testimonial = () => {
   return (
     <div>
       <TestimonialCard />
+      <TestimonialCard />
+      <TestimonialCard />
     </div>
   )
 }
