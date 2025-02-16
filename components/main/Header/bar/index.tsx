@@ -1,11 +1,11 @@
 import React from 'react'
-
-const notifBar = () => {
+import style from "./index.module.scss"
+const NotifBar = () => {
   return (
-    <div>
-      
+    <div className={style.container}>
+      We Offer CASH ON DELIVERY Nationwide!!!
     </div>
   )
 }
 
-export default notifBar
+export default NotifBar
