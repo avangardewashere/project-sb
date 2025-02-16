@@ -3,9 +3,29 @@
   color: #222;
   width: 100%;
   text-align: center;
-  padding-block: 10px;
+  padding-block: 14px;
+  .title{
+    font-weight: 700;
+    color:black;
+    font-size:22px;
+  }
+  .description{
+    width: 69%;
+  
+    font-size:17px;
+    margin-inline:auto;
+    margin-block:10px;
+
+  }
+
+
   .button {
     background-color: rgb(205, 165, 80);
     color: white;
+    width: fit-content;
+    margin: auto;
+    padding:14px 26px;
+    border-radius: 10px;
+    ;
   }
 }

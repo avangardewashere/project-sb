@@ -6,7 +6,7 @@ const Hero = () => {
       <div className={style.headline}>
         <div className={style.title}>OFFICIAL DISTRIBUTOR OF SALVEO BARLEY</div>
         <div className={style.description}>
-          Salveo Barley Grass is a high-quality premium barley grass grown in
+          <b>Salveo Barley Grass</b> is a high-quality premium barley grass grown in
           pollution free environment. Proven and tested by thousands of users in
           the Philippines. It's the best and premium barley grass brand you'll
           ever find!
@@ -14,7 +14,7 @@ const Hero = () => {
       </div>
 
       <div className={style.button}>
-        Shop Now
+       SHOP NOW
       </div>
     </div>
   );
