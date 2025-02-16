@@ -2,7 +2,7 @@ import React from "react";
 import style from "./index.module.scss";
 const ProductSection = () => {
   return (
-    <div>
+    <div className={style.container}>
       <div className={style.headline}>
         <h2>OUR PRODUCTS</h2>
         <div>Salveo Barley Grass is Certified:</div>
