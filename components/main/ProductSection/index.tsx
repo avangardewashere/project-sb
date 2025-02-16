@@ -5,7 +5,7 @@ const ProductSection = () => {
     <div className={style.container}>
       <div className={style.headline}>
         <h2>OUR PRODUCTS</h2>
-        <div>Salveo Barley Grass is Certified:</div>
+        <div className={style.certified}>Salveo Barley Grass is Certified:</div>
         <div>Gluten Free. 100% Natural & Organic. FDA Approved. Halal Approved.</div>
       </div>
     </div>
